@@ -1,3 +1,14 @@
-#Weather-App
-Description:
+# Weather App
+
+## Description
 A weather application that fetches current weather data for any city using the OpenWeatherMap API. This app displays temperature, weather conditions, and more.
+
+## Features
+- Fetch and display current weather data.
+- Search weather by city name.
+- Responsive design.
+
+## Files
+- `index.html`: The main HTML file that contains the structure of the Weather app.
+- `styles.css`: The CSS file for styling the Weather app.
+- `scripts.js`: The JavaScript file that handles the functionality of the Weather app.
